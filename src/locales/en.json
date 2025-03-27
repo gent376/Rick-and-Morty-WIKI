@@ -1,0 +1,47 @@
+{
+  "filters": {
+    "status": "Status",
+    "species": "Species",
+    "sortBy": "Sort By",
+    "reset": "Reset Filters"
+  },
+  "statusOptions": {
+    "all": "All Statuses",
+    "alive": "Alive",
+    "dead": "Dead",
+    "unknown": "Unknown"
+  },
+  "speciesOptions": {
+    "all": "All Species",
+    "human": "Human",
+    "alien": "Alien"
+  },
+  "sortingOptions": {
+    "default": "Default Sorting",
+    "nameAsc": "Name (A-Z)",
+    "nameDesc": "Name (Z-A)",
+    "originAsc": "Origin (A-Z)",
+    "originDesc": "Origin (Z-A)"
+  },
+  "character": {
+    "name": "Name",
+    "status": "Status",
+    "species": "Species",
+    "origin": "Origin",
+    "gender": "Gender",
+    "genderValues": {
+      "Male": "Male",
+      "Female": "Female",
+      "unknown": "Unbekannt"
+    },
+    "statusValues": {
+      "Alive": "Alive",
+      "Dead": "Dead",
+      "unknown": "Unknown"
+    },
+    "speciesValues": {
+      "Human": "Human",
+      "Alien": "Alien"
+    }
+  }
+}

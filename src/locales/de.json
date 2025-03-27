@@ -1,0 +1,47 @@
+{
+  "filters": {
+    "status": "Status",
+    "species": "Spezies",
+    "sortBy": "Sortieren nach",
+    "reset": "Filter zurücksetzen"
+  },
+  "statusOptions": {
+    "all": "Alle Status",
+    "alive": "Lebendig",
+    "dead": "Tot",
+    "unknown": "Unbekannt"
+  },
+  "speciesOptions": {
+    "all": "Alle Spezies",
+    "human": "Mensch",
+    "alien": "Außerirdischer"
+  },
+  "sortingOptions": {
+    "default": "Standardsortierung",
+    "nameAsc": "Name (A-Z)",
+    "nameDesc": "Name (Z-A)",
+    "originAsc": "Herkunft (A-Z)",
+    "originDesc": "Herkunft (Z-A)"
+  },
+  "character": {
+    "name": "Name",
+    "status": "Status",
+    "species": "Spezies",
+    "origin": "Herkunft",
+    "gender": "Geschlecht",
+    "genderValues": {
+      "Male": "Männlich",
+      "Female": "Weiblich",
+      "unknown": "Unbekannt"
+    },
+    "statusValues": {
+      "Alive": "Lebendig",
+      "Dead": "Tot",
+      "unknown": "Unbekannt"
+    },
+    "speciesValues": {
+      "Human": "Mensch",
+      "Alien": "Außerirdischer"
+    }
+  }
+}
