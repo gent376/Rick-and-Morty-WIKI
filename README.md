@@ -32,7 +32,7 @@ Setup Instructions
 
 Clone the repository:
 
----git clone https://github.com/yourusername/Rick-and-Morty-WIKI.git---
+---git clone https://github.com/yourusername/Rick-and-Morty-WIKI.git  ---
 
 ---cd Rick-and-Morty-WIKI---
 
